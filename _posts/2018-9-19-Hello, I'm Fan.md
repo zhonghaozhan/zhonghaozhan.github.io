@@ -3,7 +3,7 @@ layout: post
 title: Hello, I'm Fan!
 ---
 
-Hello, I'm Fan! You can call me Vincent. I am currently a PhD Candidate in Dyson School of Design Engineering at Imperial College London. I will do research about human-data interaction, IoT, applied machine learning, data privacy, and etc.
+Hello, I'm Fan! You can call me Vincent. I am currently a PhD Candidate in Dyson School of Design Engineering at Imperial College London. I will do research about human-data interaction, IoT, applied machine learning, data privacy, and etc. I really like eat CHIPS! I ate delicious french fries in Italy! ![_config.yml]({{ site.baseurl }}/images/post_2018-9-19/CHIPS.jpg)
 
 I’m supervised by [Professor Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School, Imperial College London. Before that, I was supervised by [Professor Jia Zhou](http://www.cme.cqu.edu.cn/info/1240/2354.htm) and [Professor Shuping Yi](https://baike.baidu.com/item/易树平) at [Chongqing University](http://english.cqu.edu.cn).
 
@@ -11,7 +11,4 @@ My previous research focus on human behaviour on wearable/mobile devices and soc
 
 If your have any thing to want to know from me or share with me, please email me. That could be my great honor!
 
-In the end, I wish to tell you a little secret of mine. I really like eat CHIPS!
 
-I ate delicious french fries in Italy!
-![_config.yml]({{ site.baseurl }}/images/post_2018-9-19/CHIPS.jpg)

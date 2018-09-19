@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Fan Mo
 permalink: /aboutme/
 ---
-### Fan Mo
 
 Hello! You can call me Vincent, I am currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Professor Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
 

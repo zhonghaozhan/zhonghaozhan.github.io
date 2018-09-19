@@ -3,16 +3,20 @@ layout: page
 title: About
 permalink: /aboutme/
 ---
+### Fan Mo
 
-### About me
+Hello! You can call me Vincent, I am currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Professor Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
 
-I'm Fan Mo, a PhD Candidate at Dyson School of Design Engineering, Imperial College London.
+I will further my study about human-data interaction, IoT, applied machine learning, data privacy, and etc. My previous research focus on human behaviour on wearable/mobile devices and social network sites. I have many experience at User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, as well as Statistics.
 
-2015-2018, **Master of Science in Management**, Chongqing University (GPA: 4.81/5, Rank: 1/67). My Master’s Thesis is "*Research on interactive design of motion-adaptive for smart watches*" (Advised by Prof. Jia Zhou and Prof. Shuping Yi; Awarded as Outstanding)
+If your have any thing to want to know from me or share with me, please [email me](mailto:f.mo18@imperial.ac.uk). That could be my great honor!
 
-2011-2015, **Bachelor of Industrial Engineering**, Chongqing University (GPA: 3.74/4, Rank: 1/60). My Bachelor’s Thesis is "*The influence of menu structure on interactive performance of smart watches*" (Advised by Prof. Jia Zhou and Prof. Shuping Yi; Awarded as Outstanding)
 
-I have expertise at User Study, Persona, Usability Evaluation and Test, Filed Study, Survey Study, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, Statistics, etc.
+### Previous Study Experiences
+2015-2018, **Master of Science in Management**, [Chongqing University](http://english.cqu.edu.cn) (GPA: 4.81/5, Rank: 1/67). My Master’s Thesis is "*Research on interactive design of motion-adaptive for smart watches*" (Advised by [Prof. Jia Zhou](http://www.cme.cqu.edu.cn/info/1240/2354.htm) and [Prof. Shuping Yi](https://baike.baidu.com/item/易树平); Awarded as Outstanding)
+
+2011-2015, **Bachelor of Industrial Engineering**, [Chongqing University](http://english.cqu.edu.cn) (GPA: 3.74/4, Rank: 1/60). My Bachelor’s Thesis is "*The influence of menu structure on interactive performance of smart watches*" (Advised by [Prof. Jia Zhou](http://www.cme.cqu.edu.cn/info/1240/2354.htm) and [Prof. Shuping Yi](https://baike.baidu.com/item/易树平); Awarded as Outstanding)
+
 
 ### Previous Scholarships/Awards
 * 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are coverd)

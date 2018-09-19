@@ -1,27 +1,47 @@
 ---
 layout: page
-title: Projects
+title: Projects & Works
 permalink: /projects/
 ---
 
 
-### Journal Papers
+####Usage Patterns and Social Circles on Facebook among Elderly People (*Project Manager*)
+**Jul. 2016 ~ Mar. 2017**
 
-**Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275.
+Cooperating with: The project “myPersonality” in the Psychometrics Centre, University of Cambridge, the U.K. and Stanford Graduate School of Business, the U.S.
 
-**Fan Mo**, and Jia Zhou. "The influence of menu structure and layout on usability of smartwatches." *International Journal of Mobile Human Computer Interaction (IJMHCI)* 10, no. 1 (2018): 1-22.
+* Extracting the elderly’s data from 224 million records 
+* adopting statistical analysis and social network analysis
+* considering the influence of personality traits
 
-**Fan Mo**, Jia Zhou, and Shuping Yi. "Adapting the Navigation Interface of Smart Watches to User Movements." *International Journal of Human–Computer Interaction* 33, no. 6 (2017): 460-474.
+####Research on Intelligence Systems of the Aged Nursing Care Based on Technology Acceptance
+**Jun. 2016 ~ Current**
 
-**Fan Mo**, Cong Shen, Jia Zhou, and Michael M. Khonsari. "Statistical analysis of surface texture performance with provisions with uncertainty in texture dimensions." *IEEE Access* 5 (2017): 5388-5398.
+Cooperating with: Institute of Human Factors and Ergonomics, Tsinghua University, China; Yuan Ze University, Taiwan, China
 
-**Fan Mo**, Cong Shen, Jia Zhou, and Michael M. Khonsari. "Statistical Analysis of the Influence of Imperfect Texture Shape and Dimensional Uncertainty on Surface Texture Performance." *IEEE Access* 5 (2017): 27023-27035.
+* Interviewing on the intergenerational communication *
+* designing experiments to analyze the impact of social robots’ characteristics
+* conducting experiments on the elderly’s gait.
 
-Jincheng Huang, Jia Zhou, Guangji Liao, **Fan Mo**, and Huilin Wang. "Investigation of Chinese students' O2O shopping through multiple devices." *Computers in Human Behavior* 75 (2017): 58-69.
+####Research on Behaviour Pattern Recognition of Web Users based on Trusted Interaction Mechanism and Big Data Project Manager (*Project Manager*)
+**Apr. 2016 ~ Current**
 
-Guangji Liao, Jia Zhou, Jincheng Huang, **Fan Mo**, Huilin Wang, and Shuping Yi. "Design and evaluation of smart mobile services for cross-channel shopping." *Mobile Information Systems* 2016 (2016).
+* Cleaning the data of mouse motion; extracting features
+* building mouse behaviour patterns through machine learning methods
+* recognizing the credibility of usage behaviour.
 
-### Conference Papers
-**Fan Mo**, Jia Zhou, and Shuping Yi. "How to Enhance Intergenerational Communication? The Influence of Family Orientation and Generation When Using Social Robots as an Intermediary." *In International Conference on Human Aspects of IT for the Aged Population*, pp. 348-359. Springer, Cham, 2017. (Presentation at Vancouver, Canada).
+####Statistical Simulation of the Performance of Surface Texture (*Project Manager*)
+**Mar. 2016 ~ Mar. 2017**
 
-**Fan Mo**, Shuping Yi, and Jia Zhou. "Effect of icon amount and visual density on usability of smartwatches." *In International Conference on Human Aspects of IT for the Aged Population*, pp. 466-477. Springer, Cham, 2016. (Presentation at Toronto, Canada).
+Cooperating with: Department of Mechanical Engineering, Louisiana State University, the U.S.
+
+* Applying statistical methods and machine learning methods to analyze the influence of dimensional uncertainty on surface texture performance
+
+
+####Design Guidelines on User Interface of E-commerce Platform by Cross-devices
+**Oct. 2014 ~ Dec. 2015**
+
+Cooperating with: User Experience Design, Alibaba International
+
+* Investigating features of the market of e-commerce
+* making interface prototypes on smart watches and smart phones, filming and making videos.

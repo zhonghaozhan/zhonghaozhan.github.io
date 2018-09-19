@@ -14,7 +14,7 @@ I'm Fan Mo, a PhD Candidate at Dyson School of Design Engineering, Imperial Coll
 
 I have expertise at User Study, Persona, Usability Evaluation and Test, Filed Study, Survey Study, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, Statistics, etc.
 
-###Previous Scholarships/Awards
+### Previous Scholarships/Awards
 * 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are coverd)
 * 2017 Outstanding Graduate Thesis Award (Top 1% in University)
 * 2016, 2017 National Scholarship for the Graduate Student (Twice, Top 2% in University)

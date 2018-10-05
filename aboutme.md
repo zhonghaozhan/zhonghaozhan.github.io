@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fan Mo
+title: Fan V. Mo
 permalink: /aboutme/
 ---
 

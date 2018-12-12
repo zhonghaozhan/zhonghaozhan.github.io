@@ -168,8 +168,7 @@ p <- ggplot(resultsSE, aes(x = movement, y = errorrate)) +
 p
 ```
 
-
-![_config.yml]({{ site.baseurl }}/images/post_2018-12-12/error_rate.png)
+[<img src="{{ site.baseurl }}/images/post_2018-12-12/error_rate.png" alt="Constructocat by Vincent" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 
 ### Congratulations! You made it! ;)

@@ -66,7 +66,7 @@ summarySE <- function(data=NULL, measurevar, groupvars=NULL, na.rm=FALSE,
 ## Prepare and clean the data
 Then, we load the data.
 Look at the head of the data. *Subject* is the ID of the subject. *movement* consists of five movement conditions, which are sp1, sp2, sp3, sp4, and sp5, refer to standing, strolling, normal walking, rushing, and jogging. *errorrate* is the error rate of tapping.
-```{r}
+```
 WEB_part1 = "https://raw.githubusercontent.com/"
 WEB_part2 = "mofanv/datasharing/master/data_Marking_Significant_Difference.csv"
 dat = read.csv(paste0(WEB_part1, WEB_part2))
@@ -74,13 +74,13 @@ head(dat)
 ```
 
 Now, we get the ANOVA results using `aov()` function. Check the F value, p value by using `summary()` function.
-```{r}
+```
 fit <- aov(errorrate ~ movement, dat)
 summary(fit)
 ```
 
 We can also pick the F value and p value from the results. That will be useful in later analysis.
-```{r}
+```
 #pick the F value, p value, and df
 Fvalue <- round(summary(fit)[[1]][[4]][1],3)
 Prvalue <- round(summary(fit)[[1]][[5]][1],3)
@@ -94,7 +94,7 @@ print(paste0('Fvalue is: ', Fvalue, '; Pvalue is: ', Prvalue, '; df values are: 
 ```
 
 After getting the ANOVA results, you may want to look at the multiple comparison using TukeyHSD methods.
-```{r}
+```
 # TukeyHSD
 multComp <- TukeyHSD(fit)
 
@@ -105,14 +105,14 @@ t_temp
 ```
 
 Now, a important step, using `summarySE()` function (we included it at the beginning) to summarize the data. Look at what we get now!
-```{r}
+```
 #summary the data that will be used for ploting
 resultsSE <- summarySE(data=dat, measurevar="errorrate", groupvars="movement")
 resultsSE
 ```
 
 In order to mark significant difference, first we need the text. You can prepare the text based on the multiple comparison results **t_temp** which we already have.
-```{r}
+```
 # prepare the text on the plot
 signMark = c('','','','','')
 for(i in 1:nrow(t_temp)){ # for each comparison
@@ -152,7 +152,7 @@ signMark
 ## Plot it
 This is the final step, plot using `ggplot()` function.
 If you are not fimilar with this function, I highly suggest you to have a look at this [http://www.cookbook-r.com/Graphs/]. It's very useful and powerful.
-```{r}
+```
 # plot
 p <- ggplot(resultsSE, aes(x = movement, y = errorrate)) +
         geom_line(group=1) +
@@ -168,5 +168,4 @@ p <- ggplot(resultsSE, aes(x = movement, y = errorrate)) +
 p
 ```
 
-### Congratulations! You made it!
-### Try to use this in your papers ;)
+### Congratulations! You made it! ;)

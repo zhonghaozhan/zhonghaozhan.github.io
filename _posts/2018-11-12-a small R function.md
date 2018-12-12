@@ -168,4 +168,8 @@ p <- ggplot(resultsSE, aes(x = movement, y = errorrate)) +
 p
 ```
 
+
+[_config.yml]({{ site.baseurl }}/images/post_2018-12-12/error_rate.png)
+
+
 ### Congratulations! You made it! ;)

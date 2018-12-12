@@ -169,7 +169,7 @@ p
 ```
 
 
-[_config.yml]({{ site.baseurl }}/images/post_2018-12-12/error_rate.png)
+![_config.yml]({{ site.baseurl }}/images/post_2018-12-12/error_rate.png)
 
 
 ### Congratulations! You made it! ;)

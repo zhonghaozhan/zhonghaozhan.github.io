@@ -6,7 +6,6 @@ permalink: /publications/
 
 
 ### Journal Papers
-
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275.
 
 **Fan Mo**, and Jia Zhou. "The influence of menu structure and layout on usability of smartwatches." *International Journal of Mobile Human Computer Interaction (IJMHCI)* 10, no. 1 (2018): 1-22.

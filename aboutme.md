@@ -4,11 +4,11 @@ title: Fan V. Mo
 permalink: /aboutme/
 ---
 
-Hello! I'm Vincent, currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Professor Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
+Hello! I'm Vincent, currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
 
-My research focus on graranteeing data privacy in IoT especially in edge computing, helping users train their machine learning models without leakage of their private information. My previous research focus on human behaviour on wearable/mobile devices and social network sites. I have many experience at User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, as well as Statistics.
+My research focuses on guaranteeing data privacy in IoT, especially in edge computing, helping users train their machine learning models without leakage of their private information. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences at User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, as well as Statistics.
 
-If your have any thing to want to know from me or share with me, please [email me](mailto:f.mo18@imperial.ac.uk). That could be my great honor!
+If you have anything to want to know from me or share with me, please [email me](mailto:f.mo18@imperial.ac.uk). Very happy to hear from you!
 
 
 ### Previous Study Experiences

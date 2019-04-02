@@ -13,4 +13,3 @@ My previous research focus on human behaviour on wearable/mobile devices and soc
 
 If your have any thing to want to know from me or share with me, please email me. That could be my great honor!
 
-

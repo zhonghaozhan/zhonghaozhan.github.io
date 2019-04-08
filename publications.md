@@ -5,11 +5,8 @@ permalink: /publications/
 ---
 
 
-### Journal Papers
-
-
 ### 2019
-**Fan Mo**, and Hamed Haddadi. "Efficient and private Federated Learning using TEE." *EuroSys 2019* March 2019, Dresden, Germany [poster](https://mofanv.github.io/papers/poster_eurosys_2019.pdf),[extended abstract](https://mofanv.github.io/papers/abstract_eurosys_2019.pdf)
+**Fan Mo**, and Hamed Haddadi. "Efficient and private Federated Learning using TEE." *EuroSys 2019* March 2019, Dresden, Germany ([poster](https://mofanv.github.io/papers/poster_eurosys_2019.pdf), [extended abstract](https://mofanv.github.io/papers/abstract_eurosys_2019.pdf))
 
 ### 2018
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [URL](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)

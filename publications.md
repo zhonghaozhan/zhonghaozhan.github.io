@@ -9,9 +9,12 @@ permalink: /publications/
 **Fan Mo**, and Hamed Haddadi. "Efficient and private Federated Learning using TEE." *EuroSys 2019* March 2019, Dresden, Germany ([poster](https://mofanv.github.io/papers/poster_eurosys_2019.pdf), [extended abstract](https://mofanv.github.io/papers/abstract_eurosys_2019.pdf))
 
 ### 2018
+**Fan Mo**, Shiquan Xiong, Shuping Yi, Qian Yi, and Anchuan Zhang. "Authentication Using Users’ Mouse Behavior in Uncontrolled Surroundings." *Intelligent Computing and Internet of Things*, pp. 121-132. Springer, Singapore. 2018. [URL](https://link-springer-com.iclibezp1.cc.ic.ac.uk/chapter/10.1007/978-981-13-2384-3_12)
+
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [URL](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
 
 **Fan Mo**, and Jia Zhou. "The influence of menu structure and layout on usability of smartwatches." *International Journal of Mobile Human Computer Interaction (IJMHCI)* 10, no. 1 (2018): 1-22. [URL](https://www.igi-global.com/article/the-influence-of-menu-structure-and-layout-on-usability-of-smartwatches/190671)
+
 
 ### 2017
 **Fan Mo**, Jia Zhou, and Shuping Yi. "Adapting the Navigation Interface of Smart Watches to User Movements." *International Journal of Human–Computer Interaction* 33, no. 6 (2017): 460-474. [URl](https://www.tandfonline.com/doi/abs/10.1080/10447318.2017.1279826)

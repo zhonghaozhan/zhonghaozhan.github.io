@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Fan V. Mo
+title: About Me
 permalink: /aboutme/
 ---
 
-Hello! I'm Vincent, currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
+Hello! I'm Fan (Vincent) Mo, currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
 
 My research focuses on guaranteeing data privacy in IoT, especially in edge computing, helping users train their machine learning models without leakage of their private information. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences at User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, as well as Statistics.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello, I'm Vincent!
+title: Hello, I'm new Vincent!
 ---
 
-Hello, I'm Vincent. I am currently a PhD Candidate in Dyson School of Design Engineering at Imperial College London. I will do research about human-data interaction, IoT, applied machine learning, data privacy, and etc. I really like eat CHIPS! I ate delicious french fries in Italy! 
+Hello, I'm new Vincent. I am currently a PhD Candidate in Dyson School of Design Engineering at Imperial College London. I will do research about human-data interaction, IoT, applied machine learning, data privacy, and etc. I really like eat CHIPS! I ate delicious french fries in Italy! 
 
 [<img src="{{ site.baseurl }}/images/post_2018-9-19/CHIPS.jpg" alt="Constructocat by Vincent" style="width: 500px;"/>]({{ site.baseurl }}/)
 

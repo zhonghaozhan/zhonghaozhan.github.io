@@ -5,7 +5,7 @@ permalink: /service/
 ---
 
 ### Research Service
-* Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/)(IF=3.557), IEEE Xplore
+* Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/) (IF=3.557), IEEE Xplore
 * Assistant of Chair, [HCI Internatinal 2017](http://2017.hci.international/) - ITAP, Springer
 * Assistant of Chair, [HCI Internatinal 2016](http://2016.hci.international/) - ITAP, Springer
 

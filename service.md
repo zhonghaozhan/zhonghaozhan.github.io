@@ -5,12 +5,12 @@ permalink: /service/
 ---
 
 ### Research Service
-* Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/) (IF=3.557), IEEE Xplore
+* Reviewer of [Human Factor](https://uk.sagepub.com/en-gb/eur/journal/human-factors), from 2019
+* Reviewer of [IEEE Access](https://ieeeaccess.ieee.org/), from 2018
 * Assistant of Chair, [HCI Internatinal 2017](http://2017.hci.international/) - ITAP, Springer
 * Assistant of Chair, [HCI Internatinal 2016](http://2016.hci.international/) - ITAP, Springer
 
 ### Community Service
-
 * General Teaching Space Helper at [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) (**GTA**)
 (*Sept. 2018 ~ Current*)
 

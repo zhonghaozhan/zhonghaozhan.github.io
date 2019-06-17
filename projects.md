@@ -8,7 +8,7 @@ permalink: /projects/
 #### Usage Patterns and Social Circles on Facebook among Elderly People (*Project Manager*)
 **Jul. 2016 ~ Mar. 2017**
 
-Cooperating with: The project “myPersonality” in the Psychometrics Centre, University of Cambridge, the U.K. and Stanford Graduate School of Business, the U.S.
+Cooperating with: The project [myPersonality](https://www.psychometrics.cam.ac.uk/productsservices/mypersonality) in the Psychometrics Centre, University of Cambridge, the U.K. and Stanford Graduate School of Business, the U.S.
 
 * Extracting the elderly’s data from 224 million records 
 * adopting statistical analysis and social network analysis

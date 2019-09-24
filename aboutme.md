@@ -18,7 +18,9 @@ If you have anything to want to know from me or share with me, please [email me]
 
 
 ### Previous Scholarships/Awards
-* 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are coverd)
+* 2019-2021 CSC Scholarships
+* 2019 [Imperial-TUM Global Fellows Programme: Cites of the Future](https://www.imperial.ac.uk/study/pg/graduate-school/global-fellows-programme/imperial-tum-global-fellows-programme/)
+* 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are covered)
 * 2017 Outstanding Graduate Thesis Award (Top 1% in University)
 * 2016, 2017 National Scholarship for the Graduate Student (Twice, Top 2% in University)
 * 2015 National Entrance Scholarship for Graduate Student (Top 0.5% in University)

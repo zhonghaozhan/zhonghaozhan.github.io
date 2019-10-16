@@ -6,6 +6,8 @@ permalink: /publications/
 
 
 ### 2019
+**Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, and Hamed Haddadi. "Towards Characterizing and Limiting Information Exposure in DNN Layers." *arXiv*, CCS Poster Extended Abstract, 2019. ([Paper](https://arxiv.org/pdf/1907.06034.pdf), [Codes](https://github.com/mofanv/darknetp))
+
 **Fan Mo**, and Hamed Haddadi. "Efficient and private Federated Learning using TEE." *EuroSys 2019* March 2019, Dresden, Germany ([poster](https://mofanv.github.io/papers/poster_eurosys_2019.pdf), [extended abstract](https://mofanv.github.io/papers/abstract_eurosys_2019.pdf))
 
 ### 2018

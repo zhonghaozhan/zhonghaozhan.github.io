@@ -3,7 +3,7 @@ layout: post
 title: Our work "DarkneTZ" has been accepted to ACM MobiSys 2020
 ---
 
-Our work "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments" has been accepted to ACM MobiSys 2020. The paper is online at arXiv: [https://github.com/mofanv/darknetp](https://arxiv.org/abs/2004.05703), and our implementation is here: [https://github.com/mofanv/darknetp](https://github.com/mofanv/darknetp).
+Our work "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments" has been accepted to ACM MobiSys 2020. The paper is online at arXiv: [https://arxiv.org/abs/2004.05703](https://arxiv.org/abs/2004.05703), and our implementation is here: [https://github.com/mofanv/darknetp](https://github.com/mofanv/darknetp).
 
 We present DarkneTZ, a framework that uses an edge device's Trusted Execution Environment (TEE) in conjunction with model partitioning to limit the attack surface against Deep Neural Networks (DNNs). Increasingly, edge devices (smartphones and consumer IoT devices) are equipped with pre-trained DNNs for a variety of applications. This trend comes with privacy risks as models can leak information about their training data through effective membership inference attacks (MIAs).
 

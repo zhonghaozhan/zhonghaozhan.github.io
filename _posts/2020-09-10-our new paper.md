@@ -3,7 +3,7 @@ layout: post
 title: C-shaped tapping pattern on smartwatches' screen you even don't realize
 ---
 
-News! our journal paper *"Adapting smart watch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping"* has been accecpted to the journal **Journal of Ambient Intelligence and Humanized Computing**. Link and codes are coming soon.
+News! our journal paper *"Adapting smart watch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping"* has been accepted to the journal **Journal of Ambient Intelligence and Humanized Computing**. Link and codes are coming soon.
 
 No matter how smartwatch users move, they have the similar high-accurate tapping areas on the round screen, the **C-shaped**. This is a very special tapping pattern compared to unromantic tapping vector fields on smartphones. It lets us recall the legendary "F-shaped" heat map of visual tracking on websites, which greatly influences the website design guidelines from [Nielsen Normal Group](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/).
 

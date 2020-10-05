@@ -26,3 +26,6 @@ permalink: /service/
 
 * Warehouse Layout for Foxconn Technology Group (**Project Manager**)
 (*Aug. 2014 ~ Sept. 2014*)
+
+### Invited Talks
+* “Model Privacy Protection at the Edge”, NetSys Lab, Department of Computer Science, Stony Brook University, U.S., Sept. 2020

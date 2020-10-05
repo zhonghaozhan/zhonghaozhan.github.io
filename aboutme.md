@@ -31,7 +31,7 @@ If you have anything to want to know from me or share with me, please [email me]
 * 2013 National Grants for the Undergraduate Student (Top 3% in University)
 * 2012 National Scholarship for the Undergraduate Student (Top 1% in University)
 
-**Notes**: All those are students' awards since I'm still a student. In addition to that, lots of enterprise scholarships and university's awards are not listed here.
+**Notes**: Lots of enterprise scholarships and university's awards are not listed here.
 
 
 

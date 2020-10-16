@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /aboutme/
+order: 1
 ---
 
 I'm Fan (Vincent) Mo, a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/). Before starting my PhD, I got my Master of Science in Management and Bachelor of Industrial Engineering at Chongqing University, closely working with [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1145/5364.htm).

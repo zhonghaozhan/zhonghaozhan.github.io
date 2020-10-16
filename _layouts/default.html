@@ -33,15 +33,14 @@
             <a href="{{ site.baseurl }}/projects">Projects</a>
             <a href="{{ site.baseurl }}/service">Service</a>
           </nav>
-
-          {% assign sorted_pages = site.pages | sort:"order" %}
-          {% for node in sorted_pages %}
-            <li><a href="{{node.url}}">{{node.title}}</a></li>
-          {% endfor %}
-
         </header>
       </div>
     </div>
+
+    {% assign sorted_pages = site.pages | sort:"order" %}
+    {% for node in sorted_pages %}
+      <li><a href="{{node.url}}">{{node.title}}</a></li>
+    {% endfor %}
 
     <div id="main" role="main" class="container">
       {{ content }}

@@ -7,7 +7,7 @@ permalink: /publications/
 ### 2020
 **Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](http://doi.org/10.1007/s12652-020-02545-3), [Code and data](https://github.com/mofanv/use-smartwatch-movement), Invention Grant (Chinese Patent No: 201810149684X)
 
-**Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp)
+**Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 
 ### 2019
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, and Hamed Haddadi. "Towards Characterizing and Limiting Information Exposure in DNN Layers." *arXiv*, CCS Poster Extended Abstract, 2019. [arXiv](https://arxiv.org/pdf/1907.06034.pdf)
@@ -15,7 +15,7 @@ permalink: /publications/
 **Fan Mo**, and Hamed Haddadi. "Efficient and private Federated Learning using TEE." *EuroSys 2019* March 2019, Dresden, Germany ([poster](https://mofanv.github.io/papers/poster_eurosys_2019.pdf), [extended abstract](https://mofanv.github.io/papers/abstract_eurosys_2019.pdf))
 
 ### 2018
-**Fan Mo**, Shiquan Xiong, Shuping Yi, Qian Yi, and Anchuan Zhang. "Authentication Using Users’ Mouse Behavior in Uncontrolled Surroundings." *Intelligent Computing and Internet of Things*, pp. 121-132. Springer, Singapore. 2018. [paper](https://link-springer-com.iclibezp1.cc.ic.ac.uk/chapter/10.1007/978-981-13-2384-3_12)
+**Fan Mo**, Shiquan Xiong, Shuping Yi, Qian Yi, and Anchuan Zhang. "Authentication Using Users’ Mouse Behavior in Uncontrolled Surroundings." *Intelligent Computing and Internet of Things*, pp. 121-132. Springer, Singapore. 2018.
 
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
 

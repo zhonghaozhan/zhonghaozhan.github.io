@@ -4,36 +4,28 @@ title: About Me
 permalink: /aboutme/
 ---
 
-Hello! I'm Fan (Vincent) Mo, currently a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London). I'm supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/), who is the Deputy Director of Research in Dyson Design School.
+I'm Fan (Vincent) Mo, a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Dr. Hamed Haddadi](https://haddadi.github.io/). Before starting my PhD, I got my Master of Science in Management and Bachelor of Industrial Engineering at Chongqing University, closely working with [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1145/5364.htm).
 
-My research focuses on guaranteeing data privacy in IoT, especially in edge computing, helping users train their machine learning models without leakage of their private information. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences at User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, as well as Statistics.
-
-If you have anything to want to know from me or share with me, please [email me](mailto:f.mo18@imperial.ac.uk). Very happy to hear from you!
+My current research focuses on guaranteeing data privacy in IoT, especially in edge computing, helping users train their machine learning models without leakage of their private information, leveraging techniques such Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, etc. I enjoy working in interdisciplinary fields and enjoy beautiful things in both science and humanities.
 
 
-### Previous Study Experiences
-2015-2018, **Master of Science in Management**, [Chongqing University](http://english.cqu.edu.cn) (GPA: 4.81/5, Rank: 1/67). My Master’s Thesis is "*Research on interactive design of motion-adaptive for smart watches*" (Advised by [Prof. Jia Zhou](http://www.cme.cqu.edu.cn/info/1240/2354.htm) and [Prof. Shuping Yi](https://baike.baidu.com/item/易树平); Awarded as Outstanding)
-
-2011-2015, **Bachelor of Industrial Engineering**, [Chongqing University](http://english.cqu.edu.cn) (GPA: 3.74/4, Rank: 1/60). My Bachelor’s Thesis is "*The influence of menu structure on interactive performance of smart watches*" (Advised by [Prof. Jia Zhou](http://www.cme.cqu.edu.cn/info/1240/2354.htm) and [Prof. Shuping Yi](https://baike.baidu.com/item/易树平); Awarded as Outstanding)
-
-
-### Previous Scholarships/Awards
-* 2019-2021 CSC Scholarships
-* 2019 [Imperial-TUM Global Fellows Programme: Cites of the Future](https://www.imperial.ac.uk/study/pg/graduate-school/global-fellows-programme/imperial-tum-global-fellows-programme/)
+### Scholarships/Awards
+* 2021 Telefonica Internship in Federated Learning + TEE
+* 2019-2021 CSC-IC Scholarships
+* 2019 [Imperial-TUM Global Fellows Programme: Cities of the Future](https://www.imperial.ac.uk/study/pg/graduate-school/global-fellows-programme/imperial-tum-global-fellows-programme/)
 * 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are covered)
-* 2017 Outstanding Graduate Thesis Award (Top 1% in University)
-* 2016, 2017 National Scholarship for the Graduate Student (Twice, Top 2% in University)
-* 2015 National Entrance Scholarship for Graduate Student (Top 0.5% in University)
-* 2015 Outstanding Undergraduate Thesis Award (Top 1% in University)
-* 2015 Chongqing Outstanding Graduate Award (Top 0.1% in Chongqing Province)
-* 2014 Li-xin Tang Scholarship (Top 0.1% in China)
-*This scholarship opens to applicants from the Top 10 University in China, and it has established elite clubs and provides academic forums and oversea tour study for the scholars.*
-* 2013 National Grants for the Undergraduate Student (Top 3% in University)
-* 2012 National Scholarship for the Undergraduate Student (Top 1% in University)
+* 2017 Outstanding Graduate Thesis Award (Research on the interactive design of motion-adaptive for smartwatches)
+* 2015 Outstanding Undergraduate Thesis Award
+* 2012-2018 Many Student Scholarships (e.g. National Scholarship, Li-xin Tang Scholarship, etc) multiple times. Thanks for their generous supports to the early age of my studying.
 
-**Notes**: Lots of enterprise scholarships and university's awards are not listed here.
+### Selected Papers
+**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](http://doi.org/10.1007/s12652-020-02545-3), [Code and data](https://github.com/mofanv/use-smartwatch-movement), Invention Grant (Chinese Patent No: 201810149684X)
 
+**Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 
+**Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
+
+**Fan Mo**, Cong Shen, Jia Zhou, and Michael M. Khonsari. "Statistical analysis of surface texture performance with provisions with uncertainty in texture dimensions." *IEEE Access* 5 (2017): 5388-5398. [paper](https://ieeexplore.ieee.org/abstract/document/7907295/)
 
 ### Contact me
 

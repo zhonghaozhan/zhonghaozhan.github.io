@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
+### 2021
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments."" Under review.
+
 
 ### 2020
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *arXiv preprint*. [Paper](https://arxiv.org/abs/2010.08762)

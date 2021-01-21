@@ -5,18 +5,19 @@ permalink: /projects/
 order: 3
 ---
 
-#### Privacy-preserving Federated Learning (*Internship*)
-**Sept. 2020 ~ Current**
-
-Cooperating with: Telefonica Research.
-
-* Explore federated learning with model partitioned execution using clients' TEEs, in order to achieve privacy-preserving FL and guarantee information leakage of shared models/gradients.
-
 
 #### EPSRC Databox: Privacy-Aware Infrastructure for Managing Personal Data (*Research Postgraduate in SysAL*)
 **Oct. 2018 ~ Current**
 
 * Research on deep learning at the edge with trusted execution environments.
+
+
+#### Privacy-preserving Federated Learning (*Internship*)
+**Sept. 2020 ~ Jan. 2021**
+
+Cooperating with: Telefonica Research.
+
+* Explore federated learning with model partitioned execution using clients' TEEs, in order to achieve privacy-preserving FL and guarantee information leakage of shared models/gradients.
 
 
 #### Edge Computing and Cyber Physical Systems (Huawei Innovation Research Program)

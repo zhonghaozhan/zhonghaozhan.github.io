@@ -32,6 +32,6 @@ order: 4
 (*Aug. 2014 ~ Sept. 2014*)
 
 ### Invited Talks
-* “Privacy-prserving Federated Learning with TEE”, Telefónica Research, Spain, Jan. 2021
+* “Privacy-preserving Federated Learning with TEE”, Telefónica Research, Spain, Jan. 2021
 
 * “Model Privacy Protection at the Edge”, NetSys Lab, Department of Computer Science, Stony Brook University, U.S., Sept. 2020

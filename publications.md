@@ -5,12 +5,14 @@ permalink: /publications/
 order: 2
 ---
 ### 2021
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), 2021.* Paper and Codes available very soon!
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Virtual Conference, June 2021.* Paper and Codes available very soon!
+
+**Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *[ICLR Workshop - Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/)*, 2021.
 
 ### 2020
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *arXiv preprint*. [Paper](https://arxiv.org/abs/2010.08762)
 
-**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), Invention Grant (Chinese Patent No: 201810149684X)
+**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), Invention Grant (Chinese Patent No: 201810149684X) (Impact Factor: 6.324)
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 

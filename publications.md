@@ -12,7 +12,8 @@ order: 2
 ### 2020
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *arXiv preprint*. [Paper](https://arxiv.org/abs/2010.08762)
 
-**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), 发明专利 Chinese Invention Grant [No: 201810149684X](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf) (Impact Factor: 6.324)
+**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), [Chinese Invention Grant](https://patents.google.com/patent/CN108446019B/en) Eng., [发明专利](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf) 中文, (Impact Factor: 6.324)
+
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 

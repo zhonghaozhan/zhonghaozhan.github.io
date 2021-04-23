@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: About Me
 permalink: /aboutme/
 order: 1

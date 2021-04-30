@@ -5,7 +5,7 @@ permalink: /publications/
 order: 2
 ---
 ### 2021
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Virtual Conference, June 2021.* Paper and Codes available very soon!
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Virtual Conference, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), Codes available very soon!
 
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *[ICLR Workshop - Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/)*, 2021.
 

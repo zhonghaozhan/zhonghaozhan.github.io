@@ -33,6 +33,8 @@ order: 4
 (*Aug. 2014 ~ Sept. 2014*)
 
 ### Invited Talks
-* “Privacy-preserving Federated Learning with TEE”, Telefónica Research, Spain, Jan. 2021
+* “On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
 
-* “Model Privacy Protection at the Edge”, NetSys Lab, Department of Computer Science, Stony Brook University, U.S., Sept. 2020
+* "Privacy-preserving Federated Learning with TEE", Telefónica Research, Spain, Jan. 2021
+
+* "Model Privacy Protection at the Edge", NetSys Lab, Department of Computer Science, Stony Brook University, USA, Sept. 2020

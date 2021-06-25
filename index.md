@@ -7,10 +7,11 @@ order: 1
 
 I'm Fan (Vincent) Mo, a PhD Candidate in [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). Before starting my PhD, I got my Master of Science in Management and Bachelor of Industrial Engineering at [Chongqing University](http://english.cqu.edu.cn/), closely working with [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm).
 
-My current research focuses on data privacy and trustworth in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, etc. I enjoy working in interdisciplinary fields and enjoy beautiful things in both science and humanities.
+My current research focuses on data privacy and trustworthiness in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, etc. I enjoy working in interdisciplinary fields and enjoy beautiful things in both science and humanities.
 
 
 ### Scholarships/Awards
+
 * 2021 Telefonica Internship in Federated Learning + TEE
 * 2019-2021 CSC-IC Scholarships
 * 2019 [Imperial-TUM Global Fellows Programme: Cities of the Future](https://www.imperial.ac.uk/study/pg/graduate-school/global-fellows-programme/imperial-tum-global-fellows-programme/)
@@ -19,9 +20,10 @@ My current research focuses on data privacy and trustworth in machine learning a
 * 2015 Outstanding Undergraduate Thesis Award
 * 2012-2018 Many Student Scholarships (e.g. National Scholarship, Li-xin Tang Scholarship, etc) multiple times. Thanks for their generous supports to the early age of my studying.
 
+
 ### Selected Papers
 
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Codes](https://github.com/mofanv/PPFL) (ssssshhh, highly scored!)
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8)(ssssshhh, highly scored!)
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 

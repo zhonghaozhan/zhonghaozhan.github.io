@@ -31,6 +31,10 @@ My current research focuses on data privacy and trustworthiness in machine learn
 
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
 
+### Media
+
+[![Privacy-preserving Federated Learning](https://img.youtube.com/vi/pBtsA0NGDzs/0.jpg)](https://www.youtube.com/watch?v=pBtsA0NGDzs)
+
 ### Contact me
 
 [f.mo18@imperial.ac.uk](mailto:f.mo18@imperial.ac.uk)

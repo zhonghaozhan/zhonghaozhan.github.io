@@ -23,7 +23,10 @@ My current research focuses on data privacy and trustworthiness in machine learn
 
 ### Selected Papers
 
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8)(ssssshhh, highly scored!)
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8) (ssssshhh, highly scored!)
+
+https://user-images.githubusercontent.com/23327428/123454411-cfc33700-d5e0-11eb-8718-1df45839c629.mov
+
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 
@@ -31,9 +34,6 @@ My current research focuses on data privacy and trustworthiness in machine learn
 
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
 
-### Media
-
-[![Privacy-preserving Federated Learning](https://img.youtube.com/vi/pBtsA0NGDzs/0.jpg)](https://www.youtube.com/watch?v=pBtsA0NGDzs)
 
 ### Contact me
 

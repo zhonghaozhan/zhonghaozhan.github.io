@@ -6,7 +6,7 @@ order: 4
 ---
 
 ### Research Service
-* Publication Chair and TPC in [MobiSys 2021 Workshop - Security and Privacy for Mobile AI](https://maisp.gitlab.io/)
+* Publication/Video Chair and TPC in [MobiSys 2021 Workshop - Security and Privacy for Mobile AI](https://maisp.gitlab.io/)
 * Reviewer of [ACM Transactions on Internet of Things](https://dl.acm.org/journal/tiot), 2021
 * PC Member in [ICLR 2021 Workshop-Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/)
 * Shadow PC in [IEEE S&P 2021](http://www.ieee-security.org/TC/SP2021/cfpapers.html)
@@ -33,6 +33,8 @@ order: 4
 (*Aug. 2014 ~ Sept. 2014*)
 
 ### Invited Talks
+* “Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
+
 * “On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
 
 * "Privacy-preserving Federated Learning with TEE", Telefónica Research, Spain, Jan. 2021

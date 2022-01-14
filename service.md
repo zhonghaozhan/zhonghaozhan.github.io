@@ -18,10 +18,10 @@ order: 4
 
 ### Community Service
 * Lab leader and GTA of Sensing and IoT course at [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), Imperial College London
-(*Sept. 2018 ~ Current*)
+(*Sept. 2018 ~ Dec. 2022*)
 
 * General Teaching Space Helper at [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) (**GTA**)
-(*Sept. 2018 ~ Sept.2019*)
+(*Sept. 2018 ~ Sept. 2019*)
 
 * General Management in Student Affairs Office Assistant Administrator (awarded as **Excellent Student Leader** in 2015)
 (*Jul. 2017 ~ Sept. 2014*)
@@ -33,9 +33,11 @@ order: 4
 (*Aug. 2014 ~ Sept. 2014*)
 
 ### Invited Talks
-* “Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
+**"Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
 
-* “On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
+* "Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
+
+* "On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
 
 * "Privacy-preserving Federated Learning with TEE", Telefónica Research, Spain, Jan. 2021
 

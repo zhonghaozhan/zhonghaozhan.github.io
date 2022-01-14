@@ -33,7 +33,7 @@ order: 4
 (*Aug. 2014 ~ Sept. 2014*)
 
 ### Invited Talks
-**"Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
+* "Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
 
 * "Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
 

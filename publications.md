@@ -5,6 +5,8 @@ permalink: /publications/
 order: 2
 ---
 ### 2022
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing." Accepted to *[ACM GetMobile 2022](https://dl.acm.org/newsletter/sigmobile-getmobile).* (Paper available soon)
+
 Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, **Fan Mo**, David Boyle, Fadel Adib, Hamed Haddadi. "Towards Battery-Free Machine Learning and Inference in Underwater Environments", *The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/)), March 9-10, 2022, Tempe, Arizona, USA.* (Paper available soon)
 
 ### 2021

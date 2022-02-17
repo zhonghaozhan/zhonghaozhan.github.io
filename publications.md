@@ -7,7 +7,7 @@ order: 2
 ### 2022
 **Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing." Accepted to *[ACM GetMobile 2022](https://dl.acm.org/newsletter/sigmobile-getmobile).* (Paper available soon)
 
-Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, **Fan Mo**, David Boyle, Fadel Adib, Hamed Haddadi. "Towards Battery-Free Machine Learning and Inference in Underwater Environments", *The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/)), March 9-10, 2022, Tempe, Arizona, USA.* (Paper available soon)
+Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, **Fan Mo**, David Boyle, Fadel Adib, Hamed Haddadi. "Towards Battery-Free Machine Learning and Inference in Underwater Environments", *The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/)), March 9-10, 2022, Tempe, Arizona, USA.* [Paper](https://arxiv.org/abs/2202.08174)
 
 ### 2021
 **Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8) (Best Paper Award!)

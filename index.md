@@ -5,9 +5,9 @@ permalink: /
 order: 1
 ---
 
-I'm Fan (Vincent) Mo, a PhD Candidate in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/), [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). Previously, I got a Master of Science in Management and a Bachelor of Industrial Engineering, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab.
+I'm Fan (Vincent) Mo, a PhD candidate in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/), [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). I have worked as Interns in [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain. Previously, I got a Master of Science in Management and a Bachelor of Industrial Engineering in China, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab.
 
-My current research focuses on data privacy and trustworthiness in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, Experiment Design, UX/UI design, Prototype Develop and Evaluation, Application Development, etc. I enjoy working in interdisciplinary fields and love beautiful things in both science and humanities.
+My current research focuses on data privacy and trustworthiness in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, UX/UI design, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love beautiful things in both science and humanities.
 
 
 ### Selected Papers
@@ -28,7 +28,7 @@ My current research focuses on data privacy and trustworthiness in machine learn
 * 2018 Li-xin Tang Overseas Scholarships at Imperial College London (Both tuition fees and living costs are covered)
 * 2017 Outstanding Graduate Thesis Award (Research on the interactive design of motion-adaptive for smartwatches)
 * 2015 Outstanding Undergraduate Thesis Award
-* 2012-2018 Many Student Scholarships (e.g. National Scholarship, Li-xin Tang Scholarship, etc) multiple times. Thanks for their generous supports to the early age of my studying.
+* 2012-2018 Many Student Scholarships (e.g. National Scholarship, Li-xin Tang Scholarship, etc.) multiple times. Thanks for their generous supports to the early age of my study.
 
 
 ### Contact me

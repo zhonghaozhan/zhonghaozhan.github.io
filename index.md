@@ -12,7 +12,7 @@ My current research focuses on data privacy and trustworthiness in machine learn
 
 ### Selected Papers
 
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [Highlight at GetMobile](https://dl.acm.org/doi/abs/10.1145/3529706.3529715) [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8) (**Best Paper Award!**)
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments." Accepted to *[ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/), Mars, Solar System, Milky Way, June 2021.* [Paper](http://arxiv.org/abs/2104.14380), [GetMobile Highlight](https://dl.acm.org/doi/abs/10.1145/3529706.3529715), [Codes](https://github.com/mofanv/PPFL), [Teaser Video](https://www.youtube.com/watch?v=pBtsA0NGDzs), [Full Video](https://www.youtube.com/watch?v=r5yxjo5V1L8) (**Best Paper Award!**)
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 

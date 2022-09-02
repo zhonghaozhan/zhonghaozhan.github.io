@@ -4,7 +4,9 @@ title: Projects/Interships/Works
 permalink: /projects/
 order: 3
 ---
-
+#### Partition-based Federated Learning for Tiny End Devices (*Internship*)
+**July. 2022 ~ Sept. 2022**
+At: [Nokia Bell Labs](https://www.bell-labs.com/).
 
 
 #### Cross-platform Privacy-preserving Machine Learning (*Internship*)

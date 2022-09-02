@@ -4,8 +4,16 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
+### Ongoing
+**Fan Mo**, Zahra Tarkhani, Hamed Haddadi. "SoK: Machine Learning with Confidential Computing". *arXiv preprint*. [Paper](https://arxiv.org/abs/2208.10134)
+
+**Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Soteris Demetriou, Deniz Gündüz, Hamed Haddadi. "Quantifying and Localizing Usable Information Leakage from Neural Network Gradients". *arXiv preprint*. [Paper](https://arxiv.org/abs/2105.13929)
+
+
 ### 2022
 **Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing." Accepted to *[ACM GetMobile 2022](https://dl.acm.org/newsletter/sigmobile-getmobile).* [Paper](https://dl.acm.org/doi/abs/10.1145/3529706.3529715) (Highlights)
+
+Mathias Brossard, Guilhem Bryant, Basma El Gaabouri, Xinxin Fan, Alexandre Ferreira, Edmund Grimley-Evans, Christopher Haster, Evan Johnson, Derek Miller, **Fan Mo**, Dominic P. Mulligan, Nick Spinale, Eric van Hensbergen, Hugo J. M. Vincent, Shale Xiong. "Private delegated computations using strong isolation". *arXiv preprint*. [Paper](https://arxiv.org/abs/2205.03322)
 
 Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, **Fan Mo**, David Boyle, Fadel Adib, Hamed Haddadi. "Towards Battery-Free Machine Learning and Inference in Underwater Environments", *The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/)), March 9-10, 2022, Tempe, Arizona, USA.* [Paper](https://arxiv.org/abs/2202.08174)
 
@@ -15,8 +23,6 @@ Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, **Fan Mo**, David B
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *[ICLR Workshop - Distributed and Private Machine Learning](https://dp-ml.github.io/2021-workshop-ICLR/)*, 2021. [Paper](https://dp-ml.github.io/2021-workshop-ICLR/files/6.pdf)
 
 ### 2020
-**Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou. "Layer-wise Characterization of Latent Information Leakage in Federated Learning". *arXiv preprint*. [Paper](https://arxiv.org/abs/2010.08762)
-
 **Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), [Chinese Invention Grant - Eng.](https://patents.google.com/patent/CN108446019B/en) , [发明专利 - 中文](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf), (Impact Factor: 6.324)
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)

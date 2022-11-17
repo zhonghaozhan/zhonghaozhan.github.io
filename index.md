@@ -5,9 +5,9 @@ permalink: /
 order: 1
 ---
 
-I'm Fan (Vincent) Mo, a PhD candidate in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/), [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). I have worked as Interns in [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain. Previously, I got a Master of Science in Management and a Bachelor of Industrial Engineering (both with rank 1 and outstanding thesis awards) in China, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab.
+I'm Fan (Vincent) Mo, currently a Senior Research Engineer at [Shield Lab - 2012 Labs - Huawei](https://www.huawei.com/en/technology-insights) at Shenzhen. I finished my PhD in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). I got a Master of Science in Management and a Bachelor of Industrial Engineering (both with rank 1 and outstanding thesis awards) in China, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab. I have worked as Interns in [Nokia Bell Labs](http://www.bell-labs.com/about/locations/cambridge-uk/#gref) and [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge, and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain.
 
-My current research focuses on data privacy and trustworthiness in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, UX/UI design, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love beautiful things in both science and humanities.
+My current research focuses on data privacy and trustworthiness in machine learning at the edge, helping users train their machine learning models without leakage of their private information, leveraging techniques such as Trusted Execution Environments. My previous research focuses on human behavior on wearable/mobile devices and social network sites. I have many experiences in User Study, Usability Evaluation and Test, UX/UI design, Prototype Develop and Evaluation, etc. I enjoy working in interdisciplinary fields and love ''beautiful'' things in both science and humanities.
 
 
 ### Selected Papers
@@ -33,4 +33,4 @@ My current research focuses on data privacy and trustworthiness in machine learn
 
 ### Contact me
 
-[f.mo18@imperial.ac.uk](mailto:f.mo18@imperial.ac.uk)
+[mofan1992@gmail.com](mailto:mofan1992@gmail.com)

@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
-### Ongoing
+### Preprint
+**Fan Mo**, Mohammad Malekzadeh, Soumyajit Chatterjee, Fahim Kawsar, Akhil Mathur. "Centaur: Federated Learning for Constrained Edge Devices". *arXiv preprint*. [Paper](https://arxiv.org/abs/2211.04175)
+
 **Fan Mo**, Zahra Tarkhani, Hamed Haddadi. "SoK: Machine Learning with Confidential Computing". *arXiv preprint*. [Paper](https://arxiv.org/abs/2208.10134)
 
 **Fan Mo**, Anastasia Borovykh, Mohammad Malekzadeh, Soteris Demetriou, Deniz Gündüz, Hamed Haddadi. "Quantifying and Localizing Usable Information Leakage from Neural Network Gradients". *arXiv preprint*. [Paper](https://arxiv.org/abs/2105.13929)

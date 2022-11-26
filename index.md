@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-I'm Fan (Vincent) Mo, currently a Senior Research Engineer at [Trustworthy AI - Shield Lab - Huawei](https://www.huawei.com/en/technology-insights) at Shenzhen. Before this, I have worked as Interns in [Nokia Bell Labs - Cambridge](http://www.bell-labs.com/about/locations/cambridge-uk/#gref) and [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge, and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain.
+I'm Fan (Vincent) Mo, currently a Senior Research Engineer at [Trustworthy AI - Shield Lab - Huawei](https://www.huawei.com/en/technology-insights) at Shenzhen. Before this, I have worked/visited in [Nokia Bell Labs - Cambridge](http://www.bell-labs.com/about/locations/cambridge-uk/#gref) and [Arm Research - Security and Systems](https://www.arm.com/resources/research) at Cambridge, and [Telefónica Research](https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/) at Spain.
 
 I finished my PhD in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) at [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London), supervised by [Prof. Hamed Haddadi](https://haddadi.github.io/). I have a Master of Science in Management and a Bachelor of Industrial Engineering (both with rank 1 and outstanding thesis awards) in China, supervised by [Prof. Jia Zhou](http://www.msre.cqu.edu.cn/info/1193/5393.htm), working at Human-computer Interaction Lab. 
 
@@ -18,7 +18,7 @@ My current research focuses on Data Privacy and Trustworthiness in Machine Learn
 
 **Fan Mo**, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, Andrea Cavallaro, Hamed Haddadi. "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments". *[ACM MobiSys 2020](https://www.sigmobile.org/mobisys/2020/), Toronto, Canada, June 2020.* [arXiv](https://arxiv.org/abs/2004.05703), [Codes](https://github.com/mofanv/darknetp), [Video](https://www.youtube.com/watch?v=mEAlONq3MU4) (Acceptance Rate: 19.4%)
 
-**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), [Invention Grant - Eng.](https://patents.google.com/patent/CN108446019B/en) , [发明专利 - 中文](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf) (Impact Factor: 6.324)
+**Fan Mo**, and Jia Zhou. "Adapting smartwatch interfaces to hand gestures during movements: Offset models and the C-shaped pattern of tapping". *Journal of Ambient Intelligence and Humanized Computing (2020)*. [Paper](https://rdcu.be/b7Du5), [Code and data](https://github.com/mofanv/use-smartwatch-movement), [Invention Grant - Eng.](https://patents.google.com/patent/CN108446019B/en) , [发明专利 - 中文](https://patentimages.storage.googleapis.com/95/6a/8f/1fefc3e194b5a6/CN108446019B.pdf)
 
 **Fan Mo**, Jia Zhou, Michal Kosinski, and David Stillwell. "Usage patterns and social circles on Facebook among elderly people with diverse personality traits." *Educational Gerontology* 44, no. 4 (2018): 265-275. [paper](https://www.tandfonline.com/doi/abs/10.1080/03601277.2018.1459088)
 

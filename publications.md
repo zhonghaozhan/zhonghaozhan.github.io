@@ -13,7 +13,7 @@ order: 2
 
 
 ### 2022
-**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing." Accepted to *[ACM GetMobile 2022](https://dl.acm.org/newsletter/sigmobile-getmobile).* [Paper](https://dl.acm.org/doi/abs/10.1145/3529706.3529715) (Highlights)
+**Fan Mo**, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis. "PPFL: Enhancing Privacy in Federated Learning with Confidential Computing." Accepted to *[ACM GetMobile 2022](https://dl.acm.org/newsletter/sigmobile-getmobile).* [Paper](https://dl.acm.org/doi/abs/10.1145/3529706.3529715) or [Here](https://mofanv.github.io/papers/ppfl_2022.pdf) (Highlights)
 
 Mathias Brossard, Guilhem Bryant, Basma El Gaabouri, Xinxin Fan, Alexandre Ferreira, Edmund Grimley-Evans, Christopher Haster, Evan Johnson, Derek Miller, **Fan Mo**, Dominic P. Mulligan, Nick Spinale, Eric van Hensbergen, Hugo J. M. Vincent, Shale Xiong. "Private delegated computations using strong isolation". *arXiv preprint*. [Paper](https://arxiv.org/abs/2205.03322)
 

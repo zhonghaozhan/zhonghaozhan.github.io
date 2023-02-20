@@ -18,6 +18,21 @@ order: 4
 * Assistant of Chair, [HCI Internatinal 2017](http://2017.hci.international/) - ITAP, Springer
 * Assistant of Chair, [HCI Internatinal 2016](http://2016.hci.international/) - ITAP, Springer
 
+
+### Invited Talks
+* "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", [SysML at Imperial College London](https://sysml.doc.ic.ac.uk/seminar/), Fed. 2023
+
+* "Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
+
+* "Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
+
+* "On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
+
+* "Privacy-preserving Federated Learning with TEE", Telefónica Research, Spain, Jan. 2021
+
+* "Model Privacy Protection at the Edge", NetSys Lab, Department of Computer Science, Stony Brook University, USA, Sept. 2020
+
+
 ### Community Service
 * Lab leader and GTA of Sensing and IoT course at [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), Imperial College London
 (*Sept. 2018 ~ Dec. 2022*)
@@ -33,14 +48,3 @@ order: 4
 
 * Warehouse Layout for Foxconn Technology Group (**Project Manager**)
 (*Aug. 2014 ~ Sept. 2014*)
-
-### Invited Talks
-* "Privacy-preserving Federated Learning with Trusted Execution Environments", [Federated Learning One World (FLOW) Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home), Jan. 2022
-
-* "Privacy-preserving Machine Learning with Trusted Execution Environments", Arm Research - System, Cambridge, UK, Jul. 2021
-
-* "On-device Machine Learning with Trusted Environments", [AI in Constrained Environments](https://www.turing.ac.uk/research/interest-groups/ai-resource-and-data-constrained-environments), The Alan Turing Institute, UK, May 2021
-
-* "Privacy-preserving Federated Learning with TEE", Telefónica Research, Spain, Jan. 2021
-
-* "Model Privacy Protection at the Edge", NetSys Lab, Department of Computer Science, Stony Brook University, USA, Sept. 2020

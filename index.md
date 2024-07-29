@@ -20,7 +20,7 @@ My current research interests include GNN models and their applications in the I
 <a href="https://netsys.doc.ic.ac.uk/index.html"><img src="https://zhonghaozhan.github.io/master/images/ICL.jpg" width="200"/>
 
 <p align="center">
-<a href="https://www.imperial.ac.uk/sysal/"><img src="https://zhonghaozhan.github.io/master/images/Cornell.png" width="200"/>
+<a href="https://www.cornell.edu/"><img src="https://zhonghaozhan.github.io/master/images/Cornell.png" width="200"/>
 
 <p align="center">
-<a href="https://www.imperial.ac.uk/sysal/"><img src="https://zhonghaozhan.github.io/master/images/CWRU.png" width="200"/>
+<a href="https://case.edu/"><img src="https://zhonghaozhan.github.io/master/images/CWRU.png" width="200"/>

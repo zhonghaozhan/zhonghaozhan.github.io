@@ -9,6 +9,12 @@ I'm Zhonghao (James) Zhan, currently a Ph.D. student in computing at [Imperial C
 
 My current research interests include GNN models and their applications in the IoT networks.
 
+> *&#8220;Nobody ever figures out what life is all about, and it doesn&#39;t matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.&#8221;*
+> 
+> &#8213; Richard P. Feynman
+
+
+
 ### Contact me
 
 [zhonghaozhan@gmail.com](mailto:zhonghaozhan@gmail.com)

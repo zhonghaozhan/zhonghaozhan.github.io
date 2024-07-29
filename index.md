@@ -9,9 +9,6 @@ I'm Zhonghao (James) Zhan, currently a Ph.D. student in computing at [Imperial C
 
 My current research interests include GNN models and their applications in the IoT networks.
 
-<p align="center">
-<a href="https://netsys.doc.ic.ac.uk/index.html"><img src="https://zhonghaozhan.github.io/images/netsys.png" width="100"/>
-
 ### Contact me
 
 [zhonghaozhan@gmail.com](mailto:zhonghaozhan@gmail.com)

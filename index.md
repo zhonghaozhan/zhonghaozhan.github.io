@@ -9,8 +9,6 @@ I'm Zhonghao (James) Zhan, currently a Ph.D. student in computing at [Imperial C
 
 My current research interests include GNN models and their applications in the IoT networks.
 
-### Selected Papers
-
 
 ### Contact me
 
@@ -20,10 +18,10 @@ My current research interests include GNN models and their applications in the I
 <a href="https://zhonghaozhan.github.io"><img src="https://zhonghaozhan.github.io/images/Empty.png" width="100"/>
 
 <p align="center">
-<a href="https://netsys.doc.ic.ac.uk/index.html"><img src="https://zhonghaozhan.github.io/images/ICL.jpg" width="400"/>
+<a href="https://netsys.doc.ic.ac.uk/index.html"><img src="https://zhonghaozhan.github.io/images/ICL.jpg" width="300"/>
 
 <p align="center">
-<a href="https://www.cornell.edu/"><img src="https://zhonghaozhan.github.io/images/Cornell.png" width="400"/>
+<a href="https://www.cornell.edu/"><img src="https://zhonghaozhan.github.io/images/Cornell.png" width="300"/>
 
 <p align="center">
-<a href="https://case.edu/"><img src="https://zhonghaozhan.github.io/images/CWRU.png" width="400"/>
+<a href="https://case.edu/"><img src="https://zhonghaozhan.github.io/images/CWRU.png" width="300"/>

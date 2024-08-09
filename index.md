@@ -30,5 +30,5 @@ My current research interests include GNN models and their applications in the I
 <a href="https://www.cornell.edu/"><img src="https://zhonghaozhan.github.io/images/Cornell.png" width="300"/>
 
 <p align="center">
-<a href="https://case.edu/"><img src="https://zhonghaozhan.github.io/images/CWRU.png" width="300"/>
+<a href="https://www.case.edu/"><img src="https://zhonghaozhan.github.io/images/CWRU.png" width="300"/>
 

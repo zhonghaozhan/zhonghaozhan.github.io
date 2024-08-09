@@ -19,9 +19,6 @@ My current research interests include GNN models and their applications in the I
 
 [zhonghaozhan@gmail.com](mailto:zhonghaozhan@gmail.com)
 
-### Google Scholar
-
-[Link](https://scholar.google.com/citations?user=Ji-757cAAAAJ&hl=en)
 
 <p align="center">
 <a href="https://zhonghaozhan.github.io"><img src="https://zhonghaozhan.github.io/images/Empty.png" width="100"/>

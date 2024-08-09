@@ -17,7 +17,7 @@ My current research interests include GNN models and their applications in the I
 
 ### Contact me
 
-[zhonghaozhan@gmail.com](mailto:zhonghaozhan@gmail.com)
+[zzhan@ic.ac.uk](mailto:zzhan@ic.ac.uk)
 
 
 <p align="center">
